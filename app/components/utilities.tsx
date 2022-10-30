@@ -82,7 +82,7 @@ export const cardIconsArray: CardIcon[] = [
     matched: false,
   },
   {
-    cardId: 'fa-cc-paypal',
+    cardId: 'fa-paypal',
     cardIcon: <FaPaypal />,
     selected: false,
     matched: false,
@@ -154,7 +154,7 @@ export const cardIconsArray: CardIcon[] = [
     matched: false,
   },
   {
-    cardId: 'fa-cc-paypal',
+    cardId: 'fa-paypal',
     cardIcon: <FaPaypal />,
     selected: false,
     matched: false,
